@@ -15,3 +15,5 @@ dsfdsnkldsf
 
 *Italic*
 ~~strikethriugh~~
+
+Simpolo<sup>TM</sup>

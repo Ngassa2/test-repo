@@ -10,3 +10,8 @@ fdsf
 ### Heading 3
 dsfdsnkldsf
 #### Heading 4
+
+**This is bold text**
+
+*Italic*
+~~strikethriugh~~

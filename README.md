@@ -19,3 +19,5 @@ dsfdsnkldsf
 Simpolo<sup>TM</sup>
 
 >Simpplo is quick learner
+
+To push you changes to git we use git push command

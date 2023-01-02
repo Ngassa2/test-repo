@@ -17,3 +17,5 @@ dsfdsnkldsf
 ~~strikethriugh~~
 
 Simpolo<sup>TM</sup>
+
+>Simpplo is quick learner

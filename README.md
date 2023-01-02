@@ -32,3 +32,16 @@ git commit
 ```
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+Git Steps:
+* git status
+* git add .
+* git commit -m "message"
+* git push
+
+Topics in DevOps Training
+1. Git
+2. Jenkins
+3. AWS
+4. Linux
+5. Docker

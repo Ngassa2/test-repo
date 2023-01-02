@@ -45,3 +45,18 @@ Topics in DevOps Training
 3. AWS
 4. Linux
 5. Docker
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+Git commands
+  * git add
+  * git commit
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>

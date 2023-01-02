@@ -1,3 +1,5 @@
+![This is an image](https://i.infopls.com/images/americanflag3.gif)
+
 # test-repo
 Created this repo for learning
 
